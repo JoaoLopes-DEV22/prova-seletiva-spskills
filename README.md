@@ -56,4 +56,4 @@ A seguir, os principais endpoints da API:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/JoaoLopes-DEV22/projeto-enem.git
+   git clone https://github.com/JoaoLopes-DEV22/prova-seletiva-spskills.git
